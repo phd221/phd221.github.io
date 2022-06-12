@@ -17,3 +17,5 @@ Hello everyone!  My name is Phillip Henry D'Andrea and I am currently a senior a
 
   
 <iframe title="Lehigh Geographic Distribution of Domestic Students" aria-label="Bar Chart" id="datawrapper-chart-LHZ9w" src="https://datawrapper.dwcdn.net/LHZ9w/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1374"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+
+<iframe width="960" height="186.08211861577837" data-original-width="8987" data-original-height="1742" src="https://www.thinglink.com/card/1592672755390611459" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
