@@ -6,8 +6,8 @@
 Hello everyone!  My name is Phillip Henry D'Andrea and I am currently a senior at Lehigh University studying Computer Science and Engineering with a focus in systems architecture.  I am from Marlton New Jersey, which is about 15 minutes from Philadelphia and 45 minutes from the south Jersey beaches.  Some of my hobbies include watching and playing soccer, hanging out with friends, and obviously, coding.  To get to know me better you can check out my [Linkedin](https://www.linkedin.com/in/phillip-d-andrea-1b3415217/), [Instagram](https://www.instagram.com/dandrea016/), and [Facebook](https://www.facebook.com/phillip.dandrea).
 
 <br/><br/>
-### Lehigh University College Admissions
 <br/><br/>
+### Lehigh University College Admissions
 
 <iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="Pie Chart" id="datawrapper-chart-61Jre" src="https://datawrapper.dwcdn.net/61Jre/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="640"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 
@@ -23,7 +23,6 @@ Hello everyone!  My name is Phillip Henry D'Andrea and I am currently a senior a
 <br/><br/>
 <br/><br/>
 ### Thinglink 360 Virtual Tour
-<br/><br/>
   
 <iframe width="960" height="186.08211861577837" data-original-width="8987" data-original-height="1742" src="https://www.thinglink.com/card/1592672755390611459" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
   
@@ -32,13 +31,12 @@ Hello everyone!  My name is Phillip Henry D'Andrea and I am currently a senior a
 <br/><br/>
 <br/><br/>
 ### Lehigh University Perferred Party Location
-<br/><br/>
   
 <div class='tableauPlaceholder' id='viz1656104970441' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PartyLocationandGender_16561047521640&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PartyLocationandGender_16561047521640&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PartyLocationandGender_16561047521640&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1656104970441'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height (divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
 <br/><br/>
-### Premier League Statistics
 <br/><br/>
+### Premier League Statistics
 
 The following tableau graphs was taken from the website: https://www.excel4soccer.com/2021/08/25/soccer-data-in-excel/.  The data was formed to provide soccer data in an Excel format that is easy to read, sort, filter, and analyze.  The first graph depicts the final point totals for teams in the 2021-2022 season.  Over the course of 9 months every Premier League team plays every other team twice accumulating 38 total games played.  The team is rewarded 3 points for a victory, 1 point for a draw, and 0 points for a loss.  Manchester City ended the season with 93 points winning the 2021-2022 premier league.  Norwich came in last place with only 22 points.  The following tableau graphs depict the goal statistics for all of the premier league teams.  More times than not the team with the most goals and least goals against end up winning the title for the given year.  The more goals a team scores (goals for)  is usually a good tell for how good a given teams offense is.  Vice versa, the less goals a team gives up (goals against) is usually a good sign for how good a given teams defense is.  Combining the two together, a teams goal differential is usually the best sign for how good a team is over the course of the season.  Manchester City scored the most goals (99), gave up the least amount of goals (26), and had the highest goal differential of all Premier League Teams.
   
@@ -47,13 +45,11 @@ The following tableau graphs was taken from the website: https://www.excel4socce
 <br/><br/>
 <br/><br/>
 ### College Admissions Map
-<br/><br/>
   
 <div class='tableauPlaceholder' id='viz1656287648576' style='position: relative'><noscript><a href='#'><img alt='Admissions ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WG&#47;WG2CMCTQG&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;WG2CMCTQG' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WG&#47;WG2CMCTQG&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1656287648576'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
 <br/><br/>
 <br/><br/>
 ### College Information Map
-<br/><br/>
   
 <div class='tableauPlaceholder' id='viz1656291369952' style='position: relative'><noscript><a href='#'><img alt='Story 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book6_16562913515280&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book6_16562913515280&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book6_16562913515280&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1656291369952'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
