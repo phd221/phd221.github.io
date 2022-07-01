@@ -24,6 +24,8 @@ Hello everyone!  My name is Phillip Henry D'Andrea and I am currently a senior a
 <br/><br/>
 ### Thinglink 360 Virtual Tour
   
+These images were taken at Saint Joan of Arc in Marlton New Jersey.  This parish played a monumental role in my upbringing whether it be baptism, first holy communion, confirmation, or weekly masses.  The first image was taken in the parking lot which has interactive links to their website as well as their facebook page.  The image contains a view of the front of the Church, housing of the church workers and also of the front garden which is depicted in the second image.  Just a few steps away is a peaceful garden where families have the ability to walk along a path and pray in the beautiful scenery.  The garden contains statues of Jesus and Saint Joan of Arc which the parish is named after.
+  
 <iframe width="960" height="186.08211861577837" data-original-width="8987" data-original-height="1742" src="https://www.thinglink.com/card/1592672755390611459" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
   
 <iframe width="960" height="170.9660010793308" data-original-width="9265" data-original-height="1650" src="https://www.thinglink.com/card/1591865584289579011" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
